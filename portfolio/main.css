@@ -129,5 +129,40 @@ header .nav-item button {
 }
 
 /* Service styling end */
+/* About stylling start */
+.about-section {
+    background-color: #fff;
+   padding-top: 50px;
+   padding-bottom: 50px;
 
+}
+.about-section h4{
+    margin-bottom: 20px;
+}
+.about-section .about-display {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+.about-items {
+width: 50%;
+
+}
+
+.about-section .content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+
+.about-section .content button {
+    background-color: blueviolet;
+
+}
+.about-section .content button:hover {
+    background-color: rgb(80, 70, 164);
+
+}
 
